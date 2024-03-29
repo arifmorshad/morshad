@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <title>Debasmita Das</title>
-    <!-- <title>Debasmita Das</title> -->
+   <title>Morshadul Hasan</title>
+    <!-- <title>Morshadul Hasan</title> -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, accent, , Debasmita Das, jekyll">
+    <meta name="keywords" content="blog, accent, , Morshadul Hasan, jekyll">
     <meta name="author" content="">
     
     
@@ -26,7 +26,7 @@
     
     <!-- Facebook Open Graph -->
     <meta name="og:description" content="This is a repository of my website.">
-    <meta name="og:title" content="Debasmita Das">
+    <meta name="og:title" content="Morshadul Hasan Arif">
     <meta name="og:url" content="https://debasmita-das-econ.github.io//">
     <meta name="og:type" content="article">
     
